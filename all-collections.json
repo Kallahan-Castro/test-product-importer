@@ -1,0 +1,244 @@
+{
+  "collections": [
+    {
+      "id": 157514072130,
+      "title": "Accessories",
+      "handle": "accessories",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 30
+    },
+    {
+      "id": 157533241410,
+      "title": "Bodysuits",
+      "handle": "bodysuits",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 31
+    },
+    {
+      "id": 157533372482,
+      "title": "Dresses",
+      "handle": "dresses",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 30
+    },
+    {
+      "id": 157515120706,
+      "title": "Featured Products",
+      "handle": "featured-products",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:04-05:00",
+      "image": null,
+      "products_count": 3
+    },
+    {
+      "id": 156111470658,
+      "title": "Home page",
+      "handle": "frontpage",
+      "description": null,
+      "published_at": "2019-11-12T10:54:03-05:00",
+      "updated_at": "2020-12-19T23:11:01-05:00",
+      "image": null,
+      "products_count": 1
+    },
+    {
+      "id": 157533438018,
+      "title": "Jackets",
+      "handle": "jackets",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 31
+    },
+    {
+      "id": 157533274178,
+      "title": "Jeans",
+      "handle": "jeans",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 30
+    },
+    {
+      "id": 157533700162,
+      "title": "Men accessories",
+      "handle": "men-accessories",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:05-05:00",
+      "image": null,
+      "products_count": 15
+    },
+    {
+      "id": 157533634626,
+      "title": "Men clothing",
+      "handle": "men-clothing",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 14
+    },
+    {
+      "id": 157533601858,
+      "title": "Men shoes",
+      "handle": "men-shoes",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 29
+    },
+    {
+      "id": 157533798466,
+      "title": "Men's",
+      "handle": "mens",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 29
+    },
+    {
+      "id": 157533765698,
+      "title": "Men's t-shirts",
+      "handle": "mens-t-shirts",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 29
+    },
+    {
+      "id": 157514006594,
+      "title": "New Products",
+      "handle": "new-products",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2019-12-02T08:33:15-05:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 157533339714,
+      "title": "Playsuits & Jumpsuits",
+      "handle": "playsuits-jumpsuits",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 31
+    },
+    {
+      "id": 157533569090,
+      "title": "Shoes",
+      "handle": "shoes",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 30
+    },
+    {
+      "id": 157514793026,
+      "title": "Special Products",
+      "handle": "special-products",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2019-12-02T08:44:23-05:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 157514891330,
+      "title": "Sweatshirts & Hoodies",
+      "handle": "sweatshirts-hoodies",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 31
+    },
+    {
+      "id": 157514989634,
+      "title": "T-Shirts",
+      "handle": "t-shirts",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 30
+    },
+    {
+      "id": 157533831234,
+      "title": "Trending Now",
+      "handle": "trending-now",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 9
+    },
+    {
+      "id": 157514235970,
+      "title": "Trousers",
+      "handle": "trousers",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 31
+    },
+    {
+      "id": 157516234818,
+      "title": "Women accessories",
+      "handle": "women-accessories",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 30
+    },
+    {
+      "id": 157515448386,
+      "title": "Women clothing",
+      "handle": "women-clothing",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 31
+    },
+    {
+      "id": 157513875522,
+      "title": "Women shoes",
+      "handle": "women-shoes",
+      "description": "",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 30
+    },
+    {
+      "id": 157513809986,
+      "title": "Women's",
+      "handle": "womens",
+      "description": "Naples-born designer Alessandro Dell'Acqua founded N21 in 2010, following a successful career as Creative Director for Italian fashion houses Peter Pianforini and Genny. Merging sophisticated, feminine cuts and dressed down chic, the N21 dresses collection is a study in contemporary elegance. Ethereal tunics in delicate silks, cutting-edge bodycon styles and glitzy sequin shift dresses are just some of the hottest picks.",
+      "published_at": "2019-12-02T08:30:08-05:00",
+      "updated_at": "2020-12-19T23:11:06-05:00",
+      "image": null,
+      "products_count": 61
+    }
+  ]
+}
