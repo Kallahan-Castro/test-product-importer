@@ -12,7 +12,6 @@ product_creation_response = HTTP.basic_auth(:user => 'd42bc929264d053ba14e43c4e0
                                     :active => true,
                                     :base_quantity => 1,
                                     :base_quantity_package => 1,
-                                    #:billing_address =>  { "firstname" => "Test", "lastname" => "13" },
                                     :title => "Faux shearling double-breasted coat [1]",
                                     :handle => "drawstring-sweater",
                                     :type => "T-Shirts",
@@ -36,15 +35,15 @@ puts (product_creation_response.to_s)
 image_creation_response = HTTP.basic_auth(:user => 'd42bc929264d053ba14e43c4e064e9af6ba14143', :pass => '22b588e8db008ab80716145a3ad2dc0c')
                                           .headers(:accept => "application/json")
                                           .put("https://shoe-shop.versacommerce.de/api/products/2543595.json",
-                                          :json => {
-                                            :product => {
-                                              "image_url_3" => "https://cdn.shopify.com/s/files/1/0026/2910/7764/products/1431407625_2_2_1.jpg?v=1525099720",
-                                              "image_url_4" => "https://cdn.shopify.com/s/files/1/0026/2910/7764/products/1431407625_2_3_1.jpg?v=1525099720",
-                                              "image_url_5" => "https://cdn.shopify.com/s/files/1/0026/2910/7764/products/1431407625_2_4_1.jpg?v=1525099720",
-                                              "image_url_6" => "https://cdn.shopify.com/s/files/1/0026/2910/7764/products/1431407625_1_1_1.jpg?v=1525099720"
-                                             }
-                                          }
-                                        )
+                                            :json => {
+                                              :product => {
+                                                "image_url_3" => "https://cdn.shopify.com/s/files/1/0026/2910/7764/products/1431407625_2_2_1.jpg?v=1525099720",
+                                                "image_url_4" => "https://cdn.shopify.com/s/files/1/0026/2910/7764/products/1431407625_2_3_1.jpg?v=1525099720",
+                                                "image_url_5" => "https://cdn.shopify.com/s/files/1/0026/2910/7764/products/1431407625_2_4_1.jpg?v=1525099720",
+                                                "image_url_6" => "https://cdn.shopify.com/s/files/1/0026/2910/7764/products/1431407625_1_1_1.jpg?v=1525099720"
+                                              }
+                                            }
+                                          )
 
 
 puts (image_creation_response.code)
