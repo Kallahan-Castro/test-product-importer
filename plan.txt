@@ -1,5 +1,5 @@
 Plan:
-1. tomar los handles de https://shella-demo10.myshopify.com/collections
-2. ir a cada colección (demoshop-url/collections/collection-abc/products.json) y extraer los datos necesarios de cada producto (características y urls de fotos)
+1. tomar los handles de https://shella-demo10.myshopify.com/collections. ✓
+2. ir a cada colección (demoshop-url/collections/collection-abc/products.json) y extraer los datos necesarios de cada producto (características y urls de fotos) ✓
 3. Importar el producto con los datos de las características e imágenes. Extraer de resultado (response) el id del producto ya incluido en el backend.
 4. Crear y agregar fotos con el ID del producto que se ha importado y las urls de las fotos.
