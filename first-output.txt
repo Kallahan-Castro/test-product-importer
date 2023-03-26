@@ -1,0 +1,732 @@
+200
+fetching collection: accessories
+    Cashmere Jogger Pant
+201
+200
+    Flyaway-Back Hoodie
+201
+200
+    Belted trousers
+201
+500
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>500: Internal Server Error</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="HandheldFriendly" content="true">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <link rel="stylesheet" href="/assets/public.css">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+  <meta name="theme-color" content="#F3F7F9">
+
+  <meta name="robots" content="noindex">
+</head>
+<body class="l-dialog">
+
+<div class="l-stage">
+  <main>
+    <div class="m-dialog">
+      <h1>500: Internal Server Error</h1>
+
+      <p>
+        Oops, we seem to have a glitch in our system.
+      </p>
+
+      <p class="t-small">
+        You might try reloading the page in a little while or <a href="//support.versacommerce.de">contact support</a> if the problem persists.
+      </p>
+
+      <p>
+        <a href="//support.versacommerce.de" class="m-button m-button--neutral">
+          support.versacommerce.de
+        </a>
+      </p>
+
+
+      <img class="m-dialog__brand" src="/assets/logo_versacommerce.png" width="80" alt="">
+    </div>
+  </main>
+</div>
+
+</body>
+</html>
+    Fit Plaid Linen Shirt
+201
+200
+    Cat eye sunglasses
+201
+200
+    Cotton Jersey Graphic Tee
+201
+200
+    Flag Cotton Crewneck Sweater
+201
+200
+    Cotton Off-the-Shoulder Tee
+201
+500
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>500: Internal Server Error</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="HandheldFriendly" content="true">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <link rel="stylesheet" href="/assets/public.css">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+  <meta name="theme-color" content="#F3F7F9">
+
+  <meta name="robots" content="noindex">
+</head>
+<body class="l-dialog">
+
+<div class="l-stage">
+  <main>
+    <div class="m-dialog">
+      <h1>500: Internal Server Error</h1>
+
+      <p>
+        Oops, we seem to have a glitch in our system.
+      </p>
+
+      <p class="t-small">
+        You might try reloading the page in a little while or <a href="//support.versacommerce.de">contact support</a> if the problem persists.
+      </p>
+
+      <p>
+        <a href="//support.versacommerce.de" class="m-button m-button--neutral">
+          support.versacommerce.de
+        </a>
+      </p>
+
+
+      <img class="m-dialog__brand" src="/assets/logo_versacommerce.png" width="80" alt="">
+    </div>
+  </main>
+</div>
+
+</body>
+</html>
+    Ecologically grown cotton T-shirt with print
+201
+200
+    Ecologically grown cotton T-shirt with slogan
+201
+200
+    Faux shearling double-breasted coat
+201
+200
+    Faux shearling jacket with hood
+201
+200
+    Flared trousers
+201
+200
+    Floppy hat
+201
+200
+    Floral iPhone 55s case
+201
+200
+    High waist denim jeggings
+201
+200
+    High-rise bikini bottoms with eyelets
+201
+200
+    Jacket with pouch pocket
+201
+200
+    Lace-up trainers with heel detail
+201
+200
+    Jersey Graphic Tee Dolce
+201
+200
+    Grown cotton T-shirt with print
+201
+200
+    Jacket with hood
+201
+500
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>500: Internal Server Error</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="HandheldFriendly" content="true">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <link rel="stylesheet" href="/assets/public.css">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+  <meta name="theme-color" content="#F3F7F9">
+
+  <meta name="robots" content="noindex">
+</head>
+<body class="l-dialog">
+
+<div class="l-stage">
+  <main>
+    <div class="m-dialog">
+      <h1>500: Internal Server Error</h1>
+
+      <p>
+        Oops, we seem to have a glitch in our system.
+      </p>
+
+      <p class="t-small">
+        You might try reloading the page in a little while or <a href="//support.versacommerce.de">contact support</a> if the problem persists.
+      </p>
+
+      <p>
+        <a href="//support.versacommerce.de" class="m-button m-button--neutral">
+          support.versacommerce.de
+        </a>
+      </p>
+
+
+      <img class="m-dialog__brand" src="/assets/logo_versacommerce.png" width="80" alt="">
+    </div>
+  </main>
+</div>
+
+</body>
+</html>
+    Baseball cap
+201
+500
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>500: Internal Server Error</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="HandheldFriendly" content="true">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <link rel="stylesheet" href="/assets/public.css">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+  <meta name="theme-color" content="#F3F7F9">
+
+  <meta name="robots" content="noindex">
+</head>
+<body class="l-dialog">
+
+<div class="l-stage">
+  <main>
+    <div class="m-dialog">
+      <h1>500: Internal Server Error</h1>
+
+      <p>
+        Oops, we seem to have a glitch in our system.
+      </p>
+
+      <p class="t-small">
+        You might try reloading the page in a little while or <a href="//support.versacommerce.de">contact support</a> if the problem persists.
+      </p>
+
+      <p>
+        <a href="//support.versacommerce.de" class="m-button m-button--neutral">
+          support.versacommerce.de
+        </a>
+      </p>
+
+
+      <img class="m-dialog__brand" src="/assets/logo_versacommerce.png" width="80" alt="">
+    </div>
+  </main>
+</div>
+
+</body>
+</html>
+    Jogger Pant
+201
+200
+    Cotton T-shirt with slogan
+201
+200
+    Cotton Crewneck Sweater
+201
+200
+    Cotton T-shirt with print
+201
+200
+    Jersey Graphic Tee
+201
+200
+    Hoodie with slogan
+201
+200
+    Fit Linen Shirt
+201
+200
+fetching collection: bodysuits
+    Tailored Fit Mesh-Panel Polo
+201
+200
+    Shirt with pocket
+201
+200
+    Short denim dungarees
+201
+200
+    Short dungarees with pockets
+201
+200
+    Striped print sweater
+201
+200
+    Super skinny mid-rise trousers
+201
+200
+    Sweater with slogan
+201
+200
+    Skinny mid-rise trousers
+201
+200
+    Trainers with heel detail
+201
+200
+    Sweater with slogan
+201
+200
+    Shoulder Tee
+201
+500
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>500: Internal Server Error</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="HandheldFriendly" content="true">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <link rel="stylesheet" href="/assets/public.css">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+  <meta name="theme-color" content="#F3F7F9">
+
+  <meta name="robots" content="noindex">
+</head>
+<body class="l-dialog">
+
+<div class="l-stage">
+  <main>
+    <div class="m-dialog">
+      <h1>500: Internal Server Error</h1>
+
+      <p>
+        Oops, we seem to have a glitch in our system.
+      </p>
+
+      <p class="t-small">
+        You might try reloading the page in a little while or <a href="//support.versacommerce.de">contact support</a> if the problem persists.
+      </p>
+
+      <p>
+        <a href="//support.versacommerce.de" class="m-button m-button--neutral">
+          support.versacommerce.de
+        </a>
+      </p>
+
+
+      <img class="m-dialog__brand" src="/assets/logo_versacommerce.png" width="80" alt="">
+    </div>
+  </main>
+</div>
+
+</body>
+</html>
+    Oxford Boyfriend Shirt
+201
+200
+    New York Yankees Baseball Hats
+201
+500
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>500: Internal Server Error</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="HandheldFriendly" content="true">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <link rel="stylesheet" href="/assets/public.css">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+  <meta name="theme-color" content="#F3F7F9">
+
+  <meta name="robots" content="noindex">
+</head>
+<body class="l-dialog">
+
+<div class="l-stage">
+  <main>
+    <div class="m-dialog">
+      <h1>500: Internal Server Error</h1>
+
+      <p>
+        Oops, we seem to have a glitch in our system.
+      </p>
+
+      <p class="t-small">
+        You might try reloading the page in a little while or <a href="//support.versacommerce.de">contact support</a> if the problem persists.
+      </p>
+
+      <p>
+        <a href="//support.versacommerce.de" class="m-button m-button--neutral">
+          support.versacommerce.de
+        </a>
+      </p>
+
+
+      <img class="m-dialog__brand" src="/assets/logo_versacommerce.png" width="80" alt="">
+    </div>
+  </main>
+</div>
+
+</body>
+</html>
+    Paint-Splattered Polo Shirt
+201
+200
+    Long strappy dress
+201
+200
+    Low waist ripped jeans
+201
+500
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>500: Internal Server Error</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="HandheldFriendly" content="true">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <link rel="stylesheet" href="/assets/public.css">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+  <meta name="theme-color" content="#F3F7F9">
+
+  <meta name="robots" content="noindex">
+</head>
+<body class="l-dialog">
+
+<div class="l-stage">
+  <main>
+    <div class="m-dialog">
+      <h1>500: Internal Server Error</h1>
+
+      <p>
+        Oops, we seem to have a glitch in our system.
+      </p>
+
+      <p class="t-small">
+        You might try reloading the page in a little while or <a href="//support.versacommerce.de">contact support</a> if the problem persists.
+      </p>
+
+      <p>
+        <a href="//support.versacommerce.de" class="m-button m-button--neutral">
+          support.versacommerce.de
+        </a>
+      </p>
+
+
+      <img class="m-dialog__brand" src="/assets/logo_versacommerce.png" width="80" alt="">
+    </div>
+  </main>
+</div>
+
+</body>
+</html>
+    Mickey hands forming a heart iPhone 6plus
+201
+200
+    Mini tweed backpack
+201
+200
+    Oversized denim jacket
+201
+200
+    Oversized sweater with slogan
+201
+200
+    Plain-coloured bandeau bikini top
+201
+200
+    Platform loafers with tassels
+201
+200
+    Puffer jacket with hood
+201
+500
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>500: Internal Server Error</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="HandheldFriendly" content="true">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <link rel="stylesheet" href="/assets/public.css">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+  <meta name="theme-color" content="#F3F7F9">
+
+  <meta name="robots" content="noindex">
+</head>
+<body class="l-dialog">
+
+<div class="l-stage">
+  <main>
+    <div class="m-dialog">
+      <h1>500: Internal Server Error</h1>
+
+      <p>
+        Oops, we seem to have a glitch in our system.
+      </p>
+
+      <p class="t-small">
+        You might try reloading the page in a little while or <a href="//support.versacommerce.de">contact support</a> if the problem persists.
+      </p>
+
+      <p>
+        <a href="//support.versacommerce.de" class="m-button m-button--neutral">
+          support.versacommerce.de
+        </a>
+      </p>
+
+
+      <img class="m-dialog__brand" src="/assets/logo_versacommerce.png" width="80" alt="">
+    </div>
+  </main>
+</div>
+
+</body>
+</html>
+    Retro sunglasses
+201
+200
+    Ribbed sweater
+201
+200
+    Ripped skinny jeans
+201
+200
+    Loose-fit round neck sweater
+201
+500
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>500: Internal Server Error</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="HandheldFriendly" content="true">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <link rel="stylesheet" href="/assets/public.css">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+  <meta name="theme-color" content="#F3F7F9">
+
+  <meta name="robots" content="noindex">
+</head>
+<body class="l-dialog">
+
+<div class="l-stage">
+  <main>
+    <div class="m-dialog">
+      <h1>500: Internal Server Error</h1>
+
+      <p>
+        Oops, we seem to have a glitch in our system.
+      </p>
+
+      <p class="t-small">
+        You might try reloading the page in a little while or <a href="//support.versacommerce.de">contact support</a> if the problem persists.
+      </p>
+
+      <p>
+        <a href="//support.versacommerce.de" class="m-button m-button--neutral">
+          support.versacommerce.de
+        </a>
+      </p>
+
+
+      <img class="m-dialog__brand" src="/assets/logo_versacommerce.png" width="80" alt="">
+    </div>
+  </main>
+</div>
+
+</body>
+</html>
+    Round neck sweater
+201
+500
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>500: Internal Server Error</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="HandheldFriendly" content="true">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <link rel="stylesheet" href="/assets/public.css">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+  <meta name="theme-color" content="#F3F7F9">
+
+  <meta name="robots" content="noindex">
+</head>
+<body class="l-dialog">
+
+<div class="l-stage">
+  <main>
+    <div class="m-dialog">
+      <h1>500: Internal Server Error</h1>
+
+      <p>
+        Oops, we seem to have a glitch in our system.
+      </p>
+
+      <p class="t-small">
+        You might try reloading the page in a little while or <a href="//support.versacommerce.de">contact support</a> if the problem persists.
+      </p>
+
+      <p>
+        <a href="//support.versacommerce.de" class="m-button m-button--neutral">
+          support.versacommerce.de
+        </a>
+      </p>
+
+
+      <img class="m-dialog__brand" src="/assets/logo_versacommerce.png" width="80" alt="">
+    </div>
+  </main>
+</div>
+
+</body>
+</html>
+    Shearling double-breasted coat
+201
+200
+    Nature Sweater
+201
+500
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>500: Internal Server Error</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="HandheldFriendly" content="true">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <link rel="stylesheet" href="/assets/public.css">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+  <meta name="theme-color" content="#F3F7F9">
+
+  <meta name="robots" content="noindex">
+</head>
+<body class="l-dialog">
+
+<div class="l-stage">
+  <main>
+    <div class="m-dialog">
+      <h1>500: Internal Server Error</h1>
+
+      <p>
+        Oops, we seem to have a glitch in our system.
+      </p>
+
+      <p class="t-small">
+        You might try reloading the page in a little while or <a href="//support.versacommerce.de">contact support</a> if the problem persists.
+      </p>
+
+      <p>
+        <a href="//support.versacommerce.de" class="m-button m-button--neutral">
+          support.versacommerce.de
+        </a>
+      </p>
+
+
+      <img class="m-dialog__brand" src="/assets/logo_versacommerce.png" width="80" alt="">
+    </div>
+  </main>
+</div>
+
+</body>
+</html>
+fetching collection: dresses
+    Cashmere Jogger Pant
+422
+{"errors":"[\"Artikelnummer ist bereits vergeben\"]"}
+Traceback (most recent call last):
+        4: from parser.rb:13:in `<main>'
+        3: from parser.rb:13:in `each'
+        2: from parser.rb:19:in `block in <main>'
+        1: from parser.rb:19:in `each'
+parser.rb:46:in `block (2 levels) in <main>': undefined method `[]' for nil:NilClass (NoMethodError)
