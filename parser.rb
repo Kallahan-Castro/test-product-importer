@@ -15,6 +15,7 @@ collections_hash["collections"].each { |collection|
   puts("fetching collection: " + collection["handle"])
   collection_products = HTTP.get("https://shella-demo10.myshopify.com/collections/#{collection["handle"]}/products.json")
   collection_products_hash = JSON.parse(collection_products)
+
   collection_products_hash["products"].each { |product|
     prng = Random.new
     images = []
@@ -30,6 +31,31 @@ collections_hash["collections"].each { |collection|
     tag_list = product['tags']
     description_html = product['body_html']
     product['images'].each { |url| images.push(url['src']) }
+
+    begin
+      product_response = create_product(title, code, handle, type, vendor, price, compare_at_price, stock, tag_list, description_html)
+      puts (product_response.code)
+      if not product_response.status.success? then
+        puts (product_response.to_s)
+      end
+    rescue
+      puts "Error on product creation."
+      next
+    end
+
+    product_id = JSON.parse(product_response)['product']['id']
+
+    begin
+      images_response = create_images(product_id, images)
+      puts (images_response.code)
+      if not images_response.status.success? then
+        puts(images_response.to_s)
+      end
+    rescue
+      puts "Error on image creation"
+      next
+    end
+
   }
 
 }
