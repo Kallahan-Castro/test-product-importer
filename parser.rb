@@ -4,8 +4,6 @@ require './dummy_product_feed'
 
 collections = HTTP.get('https://shella-demo10.myshopify.com/collections.json')
 puts(collections.code)
-# puts(collections.to_s)
-
 
 
 collections_hash = JSON.parse(collections)
@@ -13,6 +11,7 @@ collections_hash = JSON.parse(collections)
 collections_hash["collections"].each { |collection|
 
   puts("fetching collection: #{collection["handle"]}")
+
   collection_products = HTTP.get("https://shella-demo10.myshopify.com/collections/#{collection["handle"]}/products.json")
   collection_products_hash = JSON.parse(collection_products)
 
@@ -21,7 +20,7 @@ collections_hash["collections"].each { |collection|
     images = []
     puts("    #{product['title']}")
     title = product['title']
-    code = "shella-product-#{product['id']}"
+    code = "shella-#{product['id']}"
     handle = product['handle']
     type = product['product_type']
     vendor = product['vendor']
@@ -35,11 +34,14 @@ collections_hash["collections"].each { |collection|
     begin
       product_response = create_product(title, code, handle, type, vendor, price, compare_at_price, stock, tag_list, description_html)
       puts (product_response.code)
-      if not product_response.status.success? then
-        puts (product_response.to_s)
+      if product_response.code == 422 then
+        puts("Product '#{title}' already added. Skip!")
+        IO.write("error-log.txt", "Error with #{title}: #{product_response.reason}#{$/}", mode: 'a')
+        next
       end
-    rescue
-      puts "Error on product creation."
+    rescue StandardError => e
+      puts ("error: #{e}")
+      IO.write("error-log.txt", "Error with #{title}: #{e}#{$/}", mode: 'a')
       next
     end
 
@@ -51,8 +53,9 @@ collections_hash["collections"].each { |collection|
       if not images_response.status.success? then
         puts(images_response.to_s)
       end
-    rescue
+    rescue StandardError => e
       puts "Error on image creation"
+      IO.write("error-log.txt", "Error with images for #{title}: #{e}#{$/}", mode: 'a')
       next
     end
 
