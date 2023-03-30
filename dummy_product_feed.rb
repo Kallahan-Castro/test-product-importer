@@ -27,7 +27,8 @@ def create_product(title, code, handle, type, vendor, price, compare_at_price, s
                                     :base_unit => "Stück",
                                     :calculates_shipping_cost => true,
                                     :tag_list => tag_list,
-                                    :description_html => description_html
+                                    :description_html => description_html,
+                                    :description => description_html
                                 }
                         )
 
