@@ -4,10 +4,19 @@ require 'http'
 # user: API Key (found in the settings at the partner panel)
 # pass: API Password (can be found in the store seettings -> Apps -> Dummy product feed)
 
+
+api_key = 'd42bc929264d053ba14e43c4e064e9af6ba14143'
+
+# domain name without '.versacommerce.de'
+shop_domain = 'avone-demo'
+
+password = 'a8c80aab9f5cad0c961bcc8cfca24519'
+
+
 def create_product(title, code, handle, type, vendor, price, compare_at_price, stock, tag_list, description_html)
-  response = HTTP.basic_auth(:user => 'd42bc929264d053ba14e43c4e064e9af6ba14143', :pass => '22b588e8db008ab80716145a3ad2dc0c')
+  response = HTTP.basic_auth(:user => api_key, :pass => password)
                   .headers(:accept => "application/json")
-                  .post("https://shoe-shop.versacommerce.de/api/products.json",
+                  .post("https://#{shop_domain}.versacommerce.de/api/products.json",
                         :json => {  
                                     :code => code,
                                     :visible => true,
@@ -43,7 +52,7 @@ def create_images (id, urls)
     key = "image_url_#{i + 1}"
     url_hash[key] = url
   }
-  response = HTTP.basic_auth(:user => 'd42bc929264d053ba14e43c4e064e9af6ba14143', :pass => '22b588e8db008ab80716145a3ad2dc0c')
+  response = HTTP.basic_auth(:user => api_key, :pass => password)
                   .headers(:accept => "application/json")
-                  .put("https://shoe-shop.versacommerce.de/api/products/#{id}.json", :json => { :product => url_hash } )
+                  .put("https://#{shop_domain}.versacommerce.de/api/products/#{id}.json", :json => { :product => url_hash } )
 end
