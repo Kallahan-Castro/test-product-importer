@@ -8,10 +8,10 @@ require 'http'
 
 
 $api_key = 'd42bc929264d053ba14e43c4e064e9af6ba14143'
-$password = '67b47f9609aa6497f3b694d751410698'
+$password = '9628c7044592ceff356014d4703f467d'
 
 # domain name without '.versacommerce.de'
-$shop_domain = 'wokiee-demo'
+$shop_domain = 'tweek'
 
 
 
@@ -42,8 +42,6 @@ def create_product(title, code, handle, type, vendor, price, compare_at_price, s
                                     :description => description_html
                                 }
                         )
-
-
 end
 
 

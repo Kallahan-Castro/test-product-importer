@@ -4,7 +4,7 @@ require 'http'
 require 'json'
 require './dummy_product_feed'
 
-collections = HTTP.get('https://shella-demo10.myshopify.com/collections.json')
+collections = HTTP.get('https://midas-theme.myshopify.com/collections.json')
 puts(collections.code)
 
 
@@ -14,7 +14,7 @@ collections_hash["collections"].each { |collection|
 
   puts("fetching collection: #{collection["handle"]}")
 
-  collection_products = HTTP.get("https://shella-demo10.myshopify.com/collections/#{collection["handle"]}/products.json")
+  collection_products = HTTP.get("https://midas-theme.myshopify.com//collections/#{collection["handle"]}/products.json")
   collection_products_hash = JSON.parse(collection_products)
 
   collection_products_hash["products"].each { |product|
@@ -22,7 +22,7 @@ collections_hash["collections"].each { |collection|
     images = []
     puts("    #{product['title']}")
     title = product['title']
-    code = "shella-#{product['id']}"
+    code = "porto-#{product['id']}"
     handle = product['handle']
     type = product['product_type']
     vendor = product['vendor']
