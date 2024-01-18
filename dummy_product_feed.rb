@@ -1,22 +1,24 @@
 require 'http'
 
-
 # user: API Key (found in the settings at the partner panel)
 # pass: API Password (can be found in the store seettings -> Apps -> Dummy product feed)
+# Registering your app with VersaCommerce shop: enter in browser http://YOUR-VERSACOMMERCE-DOMAIN.versacommerce.de/api/auth?api_key=API_KEY
+# Example: http://wokiee-demo.versacommerce.de/api/auth?api_key=d42bc929264d053ba14e43c4e064e9af6ba14143
 
 
-api_key = 'd42bc929264d053ba14e43c4e064e9af6ba14143'
+
+$api_key = 'd42bc929264d053ba14e43c4e064e9af6ba14143'
+$password = '9628c7044592ceff356014d4703f467d'
 
 # domain name without '.versacommerce.de'
-shop_domain = 'avone-demo'
+$shop_domain = 'tweek'
 
-password = 'a8c80aab9f5cad0c961bcc8cfca24519'
 
 
 def create_product(title, code, handle, type, vendor, price, compare_at_price, stock, tag_list, description_html)
-  response = HTTP.basic_auth(:user => api_key, :pass => password)
+  response = HTTP.basic_auth(:user => $api_key, :pass => $password)
                   .headers(:accept => "application/json")
-                  .post("https://#{shop_domain}.versacommerce.de/api/products.json",
+                  .post("https://#{$shop_domain}.versacommerce.de/api/products.json",
                         :json => {  
                                     :code => code,
                                     :visible => true,
@@ -40,8 +42,6 @@ def create_product(title, code, handle, type, vendor, price, compare_at_price, s
                                     :description => description_html
                                 }
                         )
-
-
 end
 
 
@@ -52,7 +52,7 @@ def create_images (id, urls)
     key = "image_url_#{i + 1}"
     url_hash[key] = url
   }
-  response = HTTP.basic_auth(:user => api_key, :pass => password)
+  response = HTTP.basic_auth(:user => $api_key, :pass => $password)
                   .headers(:accept => "application/json")
-                  .put("https://#{shop_domain}.versacommerce.de/api/products/#{id}.json", :json => { :product => url_hash } )
+                  .put("https://#{$shop_domain}.versacommerce.de/api/products/#{id}.json", :json => { :product => url_hash } )
 end
